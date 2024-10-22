@@ -20,7 +20,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 ## 📫 Hubungi Saya:
-[![](https://visitcount.itsvg.in/api?id=ChieJuwonsFx&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahardan_) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:rahardan313@gmail.com)
 
@@ -28,8 +27,8 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/ChieJuwonsFx">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChieJuwonsFx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChieJuwonsFx&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
