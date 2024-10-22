@@ -1,11 +1,11 @@
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">Hi BROOO! 👋</h1>
 <h3 align="center">I'm Ahmad Rahardan</h3>
 
-## 🌱 Saat Ini Sedang Mempelajari
+## 🌱 Currently Studying:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🔧 Teknologi dan Alat:
+## 🔧 Equipment:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white) 
@@ -19,7 +19,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=seaborn&logoColor=blue)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
-## 📫 Hubungi Saya:
+## 📫 Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahardan_) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:rahardan313@gmail.com)
 
