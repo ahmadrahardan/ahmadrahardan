@@ -26,14 +26,14 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/ChieJuwonsFx">
+  <a href="https://github.com/ahmadrahardan">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChieJuwonsFx&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadrahardan&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 </p>
 
 
