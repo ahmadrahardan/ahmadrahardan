@@ -37,4 +37,4 @@
 </p>
 
 
-<h2 align="center">Thanks for visiting my profile! Feel free to get in touch. 👋</h2>
+<h2 align="center">Thanks for visiting my profile! 👋</h2>
