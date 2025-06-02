@@ -26,10 +26,13 @@
 
 ## 📊 GitHub Stats:
 <h3 align="center">GitHub Analytics</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadrahardan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrahardan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/ahmadrahardan">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=ahmadrahardan&theme=algolia&hide_border=false"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadrahardan&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
