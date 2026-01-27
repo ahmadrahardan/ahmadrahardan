@@ -71,6 +71,11 @@ Science, University of Jember, with a strong interest in information technology 
 
 ### <p align="center">📫 Connect with me!</p>
 <p align="center">
+  <a href="https://rahardan.vercel.app" target="_blank">
+  <img
+    src="https://img.shields.io/badge/-Portfolio-0A1A2F?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Website" />
+</a>
   <a href="https://www.linkedin.com/in/ahmad-rahardan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/rahardan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:rahardan313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
