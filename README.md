@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=3399FF&center=true&vCenter=true&width=700&lines=Hello,+I'm+Ahmad+Rahardan;Front-End+Web+Developer;Back-End+Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div> -->
 
-<h1 align="center">Hey There, I'm Ahmad Rahardan 👋</h1>
+<h1 align="center">Hey There, I'm Ahmad Rahardan</h1>
 
 <p align="center">
   A highly motivated and adaptable sixth-semester Information Systems student at the Faculty of Computer
