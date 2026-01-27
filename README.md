@@ -63,7 +63,7 @@ Science, University of Jember, with a strong interest in information technology 
 <p align="center">
   <a href="https://github.com/ahmadrahardan">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cahmadrahardan&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
