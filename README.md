@@ -18,7 +18,7 @@ Science, University of Jember, with a strong interest in information technology 
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
 </p>
 
-### <p align="center">Currently Learning</p>
+### <p align="center">🔧 Currently Learning</p>
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
@@ -29,7 +29,7 @@ Science, University of Jember, with a strong interest in information technology 
 
 <br>
 
-### <p align="center">Tech Stack</p>
+### <p align="center">💻 Tech Stack</p>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
@@ -52,7 +52,7 @@ Science, University of Jember, with a strong interest in information technology 
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
 </p>
 
-### <p align="center">GitHub Stats</p>
+### <p align="center">🔥 GitHub Stats</p>
 <p align="center">
   <a href="https://github.com/ahmadrahardan">
     <img height="160em"
@@ -69,7 +69,7 @@ Science, University of Jember, with a strong interest in information technology 
 
 <br>
 
-### <p align="center">Connect with me!</p>
+### <p align="center">📫 Connect with me!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-rahardan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/rahardan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
