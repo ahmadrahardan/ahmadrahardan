@@ -9,14 +9,14 @@
 Science, University of Jember, with a strong interest in information technology development.
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Driver.gif" width="300px">
-</div>
+</div> -->
 
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
-</p>
+</p> -->
 
 ### <p align="center">🔧 Currently Learning</p>
 
@@ -67,7 +67,7 @@ Science, University of Jember, with a strong interest in information technology 
     src="https://nirzak-streak-stats.vercel.app/?user=ahmadrahardan&theme=algolia&hide_border=false" />
 </p>
 
-<br>
+---
 
 ### <p align="center">📫 Connect with me!</p>
 <p align="center">
@@ -81,7 +81,7 @@ Science, University of Jember, with a strong interest in information technology 
   <a href="mailto:rahardan313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
----
+</br>
  
 <div align="center">
   <strong style="font-size: 1.5em;">
