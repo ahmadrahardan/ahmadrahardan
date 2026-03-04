@@ -1,7 +1,3 @@
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=3399FF&center=true&vCenter=true&width=700&lines=Hello,+I'm+Ahmad+Rahardan;Front-End+Web+Developer;Back-End+Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</div> -->
-
 <h1 align="center">Hey There, I'm Ahmad Rahardan</h1>
 
 <p align="center">
@@ -9,22 +5,16 @@
 Science, University of Jember, with a strong interest in information technology development.
 </p>
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Driver.gif" width="300px">
-</div> -->
-
 ---
-<!-- <p align="center">
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
-</p> -->
 
 ### <p align="center">🔧 Currently Learning</p>
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="50" height="50"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" /> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" /></a>
 </p>
 
 <br>
@@ -57,8 +47,8 @@ Science, University of Jember, with a strong interest in information technology 
   <a href="https://github.com/ahmadrahardan">
     <img height="160em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrahardan&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&theme=algolia" alt="Top Languages"/>
+  </a>
   </a>
 </p>
 
