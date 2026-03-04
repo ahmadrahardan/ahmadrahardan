@@ -44,17 +44,16 @@ Science, University of Jember, with a strong interest in information technology 
 
 ### <p align="center">🔥 GitHub Stats</p>
 <p align="center">
-  <a href="https://github.com/ahmadrahardan">
-    <img height="160em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&theme=algolia" alt="Top Languages"/>
+  <a href="https://github.com/ahmadrahardan">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrahardan&theme=algolia" alt="GitHub Streak" />
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&theme=algolia" alt="Top Languages"/>
   </a>
-  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=ahmadrahardan&theme=algolia&hide_border=false" />
+  <a href="https://github.com/ahmadrahardan">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 </p>
 
 ---
