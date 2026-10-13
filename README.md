@@ -86,7 +86,7 @@ Science, University of Jember, with a strong interest in information technology 
 <p align="center">
   <a href="https://github.com/ahmadrahardan">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrahardan&theme=algolia" alt="GitHub Streak" />
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&theme=algolia" alt="Top Languages"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrahardan&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
   </a>
 </p>
 
