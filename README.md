@@ -82,14 +82,13 @@ Science, University of Jember, with a strong interest in information technology 
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
 </p>
 
+<br>
 
 <div align="center">
 
 ### 🔥 GitHub Stats
 
 <img src="https://github-readme-stats.shion.dev/api?username=ahmadrahardan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=ahmadrahardan&theme=algolia&hide_border=false" />
 
@@ -98,8 +97,6 @@ Science, University of Jember, with a strong interest in information technology 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadrahardan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
-
-
 
 ---
 
