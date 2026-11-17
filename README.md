@@ -82,19 +82,24 @@ Science, University of Jember, with a strong interest in information technology 
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/assets/bar_neon.gif?raw=true" width="100%">
 </p>
 
-### <p align="center">🔥 GitHub Stats</p>
-<p align="center">
-  <a href="https://github.com/ahmadrahardan">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrahardan&theme=algolia" alt="GitHub Streak" />
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadrahardan&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/ahmadrahardan">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadrahardan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+<div align="center">
+
+### 🔥 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=ahmadrahardan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ahmadrahardan&theme=algolia&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadrahardan&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+
 
 ---
 
